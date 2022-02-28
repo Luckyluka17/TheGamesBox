@@ -12,4 +12,8 @@ asyncio
 
 ## Serveur Discord
 Vous aimez le bot ? Rejoignez nous pour nous aider à l'améliorer !
-[Rejoindre](https://discord.gg/qFfYvKHR5B)
+<a href='https://discord.gg/qFfYvKHR5B'>
+        <button type="button">
+           Rejoindre
+        </button>
+    </a>
