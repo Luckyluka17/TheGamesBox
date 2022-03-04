@@ -15,15 +15,5 @@ Fonctionne avec les commandes slash !
 
 Si vous souhaitez plus d'informations, nous vous invitons à visiter la documentation.
 
-
-# Auto-hébergement
-Vous avez l'autorisation d'héberger vous même le bot, mais en respectant la license.
-## Modules à installer
-```
-pycord
-requests
-asyncio
-```
-
 # Soutenir le projet
 Vous aimez le bot ? Vous pouvez me faire un [don](https://www.buymeacoffee.com/luckyluka17) ou [rejoindre le discord](https://discord.gg/qFfYvKHR5B) !
