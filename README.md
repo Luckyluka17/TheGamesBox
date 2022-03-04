@@ -15,5 +15,18 @@ Fonctionne avec les commandes slash !
 
 Si vous souhaitez plus d'informations, nous vous invitons à visiter la documentation.
 
+# Premium
+Premium est une offre qui vous permettra d'avoir dans fonctions en plus par rapport à l'offre gratuite.
+|  | Gratuit | Premium |
+|---|----|----|
+| Prix de l'offre | Gratuite | 1€ |
+| Soutien du projet | ❌ | ✅ |
+| Temps de réponse | ≈ 100 ms | ≈ 50ms |
+| Jeux exclusifs | ❌ | ✅ |
+| Évenements | ✅ | ✅ |
+| Accès au version beta | ✅ | ✅ |
+
+
+
 # Soutenir le projet
 Vous aimez le bot ? Vous pouvez me faire un [don](https://www.buymeacoffee.com/luckyluka17) ou [rejoindre le discord](https://discord.gg/qFfYvKHR5B) !
