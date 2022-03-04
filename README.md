@@ -24,7 +24,7 @@ Premium est une offre qui vous permettra d'avoir dans fonctions en plus par rapp
 | Temps de réponse | ≈ 100 ms | ≈ 50ms |
 | Jeux exclusifs | ❌ | ✅ |
 | Évenements | ✅ | ✅ |
-| Accès au version beta | ✅ | ✅ |
+| Accès aux versions beta | ✅ | ✅ |
 
 
 
