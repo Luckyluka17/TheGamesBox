@@ -25,5 +25,5 @@ requests
 asyncio
 ```
 
-# Support
+# Soutenir le projet
 Vous aimez le bot ? Vous pouvez me faire un [don](https://www.buymeacoffee.com/luckyluka17) ou [rejoindre le discord](https://discord.gg/qFfYvKHR5B) !
