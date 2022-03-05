@@ -18,7 +18,7 @@ button {
     font-size: 20px;
     cursor: pointer;
     transition: all 0.2s;
-    margin-right: 1px;
+    margin-right: -5px;
 }
 
 .premium {
@@ -227,7 +227,9 @@ h1 {
 .imgpres:hover {
   box-shadow: 0 0 2em white;
   transition: all 0.2s ease-in-out;
-  cursor: pointer;
+  cursor: cursor;
+  float: top;
+  margin-bottom: 20px;
 }
 
 h2 {
