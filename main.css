@@ -36,6 +36,10 @@ button:hover {
     transition: all 0.2s ease-in-out;
 }
 
+section {
+  margin-top: 150px;
+}
+
 body {
     overflow-x: hidden;
     font-family: 'Sora', sans-serif;
@@ -228,8 +232,7 @@ h1 {
   box-shadow: 0 0 2em white;
   transition: all 0.2s ease-in-out;
   cursor: cursor;
-  float: top;
-  margin-bottom: 20px;
+  transform: translateY(-25px);
 }
 
 h2 {
@@ -248,4 +251,8 @@ p {
   color: blue;
   text-decoration: none;
   font-size: 13px;
+}
+
+#bdp {
+  margin-top: 300px;
 }
