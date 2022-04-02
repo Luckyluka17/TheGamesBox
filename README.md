@@ -9,7 +9,7 @@ Fonctionne avec les commandes slash !
 | Chifoumi (ou pierre, feuille, ciseaux) | ✅ | ❌ | Non |
 | Boule de crytal | ✅ | ❌ | Non |
 | Test de rapidité | ✅ | ✅ | Non |
-| Bingo (trouve le nombre) | ❌ | ✅ | Non |
+| Bingo (trouve le nombre) | ✅ | ❌ | Non |
 | Roulette | ❌ | ❌ | Oui |
 
 
